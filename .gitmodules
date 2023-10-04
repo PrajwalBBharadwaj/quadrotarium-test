@@ -1,0 +1,3 @@
+[submodule "crazyswarm-test"]
+	path = crazyswarm-test
+	url = https://github.com/PrajwalBBharadwaj/crazyswarm-test.git
